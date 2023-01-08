@@ -1,0 +1,15 @@
+nltk
+numpy
+pandas
+seaborn
+matplotlib
+spacy
+wordcloud
+re
+contractions
+textblob
+sklearn
+scikit-learn
+imblearn
+xgboost
+pickle
