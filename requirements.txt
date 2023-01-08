@@ -9,7 +9,7 @@ sklearn == 0.0.post1
 scikit-learn == 1.2.0
 imblearn == 0.0
 xgboost == 1.7.3
-pickle == 0.0.12
+pickle
 re == 2022.10.31
 textblob == 0.16.0
 contractions == 0.1.73
