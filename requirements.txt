@@ -13,5 +13,3 @@ textblob == 0.17.1
 contractions == 0.1.73
 rake-nltk==1.0.4
 streamlit==0.80.0
-pickle
-re
