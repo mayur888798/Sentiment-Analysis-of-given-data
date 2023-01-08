@@ -12,6 +12,6 @@ xgboost == 1.7.3
 textblob == 0.17.1
 contractions == 0.1.73
 rake-nltk==1.0.4
-pickle==1.5.5
 streamlit==0.80.0
-re==2.4.7
+pickle
+re
