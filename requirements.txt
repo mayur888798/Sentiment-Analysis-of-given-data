@@ -11,5 +11,3 @@ imblearn == 0.0
 xgboost == 1.7.3
 textblob == 0.17.1
 contractions == 0.1.73
-pickle == none
-re == none
