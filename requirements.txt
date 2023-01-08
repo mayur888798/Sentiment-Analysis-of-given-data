@@ -11,3 +11,7 @@ imblearn == 0.0
 xgboost == 1.7.3
 textblob == 0.17.1
 contractions == 0.1.73
+re==2.4.7
+rake-nltk==1.0.4
+pickle==1.5.5
+streamlit==0.80.0
